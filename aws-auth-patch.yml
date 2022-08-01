@@ -1,6 +1,7 @@
 # This is a sample aws-auth-patch.yml file.
 # Actual aws-auth-patch.yml will be created at /System/Volumes/Data/private/tmp/aws-auth-patch.yml path.
 # TODO ensure to change the aws iam user id to your own aws iam user id.
+
 apiVersion: v1
 data:
   mapRoles: |
